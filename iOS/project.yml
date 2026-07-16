@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: SpicerackTests
-      - path: Spicerack.storekit
     dependencies:
       - target: Spicerack
     settings:
